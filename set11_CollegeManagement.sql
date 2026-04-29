@@ -63,7 +63,7 @@ INSERT INTO Student (Student_id, Name, Branch, Semester, City, CGPA, Email) VALU
 ('S00004','Karan Shah','ME',8,'Delhi',6.90,'karan@college.edu'),
 ('S00005','Divya Pillai','CS',2,'Chennai',8.20,'divya@college.edu'),
 ('S00006','Arjun Menon','IT',4,'Mumbai',7.50,'arjun@college.edu'),
-('S00007','Yomesh Patil','AI & DS',4,'Mumbai',9.20,'yomesh@college.edu'); -- Additional tuple [cite: 188]
+('S00007','Yjhbcdjbcjl','AI & DS',4,'Mumbai',9.20,'ykdcbcdbjnK@.edu'); -- Additional tuple [cite: 188]
 
 INSERT INTO Course VALUES
 ('C00001','Database Systems',4,'IT','Prof. Joshi',60),
